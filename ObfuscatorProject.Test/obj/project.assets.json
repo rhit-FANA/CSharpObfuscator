@@ -3445,20 +3445,6 @@
         "runtime": {
           "bin/placeholder/*ObfuscatorProject.csproj*.dll": {}
         }
-      },
-      "ObfuscatorProject.CodeFixes/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "*ObfuscatorProject.csproj*": "1.0.0",
-          "Microsoft.CodeAnalysis.CSharp.Workspaces": "3.3.1"
-        },
-        "compile": {
-          "bin/placeholder/ObfuscatorProject.CodeFixes.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ObfuscatorProject.CodeFixes.dll": {}
-        }
       }
     }
   },
@@ -9763,11 +9749,6 @@
       "type": "project",
       "path": "../ObfuscatorProject/ObfuscatorProject.csproj",
       "msbuildProject": "../ObfuscatorProject/ObfuscatorProject.csproj"
-    },
-    "ObfuscatorProject.CodeFixes/1.0.0": {
-      "type": "project",
-      "path": "../ObfuscatorProject.CodeFixes/ObfuscatorProject.CodeFixes.csproj",
-      "msbuildProject": "../ObfuscatorProject.CodeFixes/ObfuscatorProject.CodeFixes.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9782,28 +9763,27 @@
       "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest >= 1.1.0",
       "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest >= 1.1.0",
       "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest >= 1.1.0",
-      "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "ObfuscatorProject.CodeFixes >= 1.0.0"
+      "Microsoft.NET.Test.Sdk >= 15.9.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fana\\.nuget\\packages\\": {},
+    "C:\\Users\\phunga\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject.Test\\ObfuscatorProject.Test.csproj",
+      "projectUniqueName": "C:\\Users\\phunga\\Source\\Repos\\CSharpObfuscator\\ObfuscatorProject.Test\\ObfuscatorProject.Test.csproj",
       "projectName": "ObfuscatorProject.Test",
-      "projectPath": "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject.Test\\ObfuscatorProject.Test.csproj",
-      "packagesPath": "C:\\Users\\fana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject.Test\\obj\\",
+      "projectPath": "C:\\Users\\phunga\\Source\\Repos\\CSharpObfuscator\\ObfuscatorProject.Test\\ObfuscatorProject.Test.csproj",
+      "packagesPath": "C:\\Users\\phunga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\phunga\\Source\\Repos\\CSharpObfuscator\\ObfuscatorProject.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\fana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phunga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9818,11 +9798,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject.CodeFixes\\ObfuscatorProject.CodeFixes.csproj": {
-              "projectPath": "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject.CodeFixes\\ObfuscatorProject.CodeFixes.csproj"
-            },
-            "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject\\ObfuscatorProject.csproj": {
-              "projectPath": "C:\\Users\\fana\\source\\repos\\ObfuscatorProject\\ObfuscatorProject\\ObfuscatorProject.csproj"
+            "C:\\Users\\phunga\\Source\\Repos\\CSharpObfuscator\\ObfuscatorProject\\ObfuscatorProject.csproj": {
+              "projectPath": "C:\\Users\\phunga\\Source\\Repos\\CSharpObfuscator\\ObfuscatorProject\\ObfuscatorProject.csproj"
             }
           }
         }
@@ -9895,26 +9872,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

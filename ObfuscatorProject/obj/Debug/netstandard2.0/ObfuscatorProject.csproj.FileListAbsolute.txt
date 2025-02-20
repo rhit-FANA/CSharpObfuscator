@@ -10,3 +10,16 @@ C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstan
 C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.CoreCompileInputs.cache
 C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.dll
 C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.pdb
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.deps.json
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.dll
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.pdb
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.AssemblyReference.cache
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.Resources.resources
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.GenerateResource.cache
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.AssemblyInfoInputs.cache
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.AssemblyInfo.cs
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.CoreCompileInputs.cache
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.sourcelink.json
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.dll
+C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.pdb

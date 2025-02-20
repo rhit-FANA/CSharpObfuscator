@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = ObfuscatorProject.Test
-build_property.ProjectDir = C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Test\
+build_property.ProjectDir = C:\Users\phunga\Source\Repos\CSharpObfuscator\ObfuscatorProject.Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

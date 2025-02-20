@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ObfuscatorProject.CodeFixes\ObfuscatorProject.CodeFixes.csproj" />
+    
     <ProjectReference Include="..\ObfuscatorProject\ObfuscatorProject.csproj" />
   </ItemGroup>
 

@@ -1,8 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using VerifyCS = ObfuscatorProject.Test.CSharpCodeFixVerifier<
-    ObfuscatorProject.ObfuscationAnalyzer,
-    ObfuscatorProject.ObfuscatorProjectCodeFixProvider>;
+using VerifyCS = ObfuscatorProject.Test.CSharpAnalyzerVerifier<
+    ObfuscatorProject.ObfuscationAnalyzer>;
 
 namespace ObfuscatorProject.Test
 {

@@ -19,7 +19,6 @@
           "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest": "1.1.0",
           "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest": "1.1.0",
           "Microsoft.NET.Test.Sdk": "15.9.0",
-          "ObfuscatorProject.CodeFixes": "1.0.0",
           "ObfuscatorProject": "1.0.0.0"
         },
         "runtime": {
@@ -2319,18 +2318,6 @@
           }
         }
       },
-      "ObfuscatorProject.CodeFixes/1.0.0": {
-        "dependencies": {
-          "*ObfuscatorProject.csproj*": "1.0.0",
-          "Microsoft.CodeAnalysis.CSharp.Workspaces": "3.3.1"
-        },
-        "runtime": {
-          "ObfuscatorProject.CodeFixes.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "ObfuscatorProject/1.0.0.0": {
         "runtime": {
           "ObfuscatorProject.dll": {
@@ -3454,11 +3441,6 @@
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
     "*ObfuscatorProject.csproj*/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ObfuscatorProject.CodeFixes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

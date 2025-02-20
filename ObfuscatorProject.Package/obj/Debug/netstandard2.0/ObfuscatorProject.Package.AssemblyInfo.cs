@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("ObfuscatorProject")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41b128c6b72e9f2fdf47667044d0af7f75ad2230")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObfuscatorProject.Package")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObfuscatorProject.Package")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
