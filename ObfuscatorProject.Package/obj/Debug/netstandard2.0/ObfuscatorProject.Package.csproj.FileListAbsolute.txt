@@ -1,0 +1,5 @@
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Package\obj\Debug\netstandard2.0\ObfuscatorProject.Package.csproj.AssemblyReference.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Package\obj\Debug\netstandard2.0\ObfuscatorProject.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Package\obj\Debug\netstandard2.0\ObfuscatorProject.Package.AssemblyInfoInputs.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Package\obj\Debug\netstandard2.0\ObfuscatorProject.Package.AssemblyInfo.cs
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject.Package\obj\Debug\netstandard2.0\ObfuscatorProject.Package.csproj.CoreCompileInputs.cache

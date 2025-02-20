@@ -1,0 +1,12 @@
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.deps.json
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.dll
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\bin\Debug\netstandard2.0\ObfuscatorProject.pdb
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.AssemblyReference.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.Resources.resources
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.GenerateResource.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.AssemblyInfoInputs.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.AssemblyInfo.cs
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.csproj.CoreCompileInputs.cache
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.dll
+C:\Users\fana\source\repos\ObfuscatorProject\ObfuscatorProject\obj\Debug\netstandard2.0\ObfuscatorProject.pdb
