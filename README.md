@@ -1,5 +1,5 @@
 ﻿# CSharp Obfuscator
-This is a simple obfuscator implemented to resist Control Flow analysis. It is a prototype do demonstrate the concept of control flow obfuscation.
+This is a simple obfuscator implemented to resist Control Flow analysis. It is a prototype to demonstrate the concept of control flow obfuscation.
 
 ## Features Implemented
 ### Control Flow Obfuscation
